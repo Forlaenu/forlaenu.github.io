@@ -1,5 +1,5 @@
 ---
-title:  "Me and Web Dev"
+title:  "Me and Web Development"
 ---
 
 # Welcome
@@ -16,23 +16,10 @@ I am excited for this future. Can't really say scared, nervous for sure though. 
 
 By the end of this journey, I hope to be fluently creating automation scripts, drastically change the way I interact with computers in general, and be confident that any idea I have I can tackle.
 
-My current roadblock is based through WSL, windows subsystem for linux and the headaches of getting VSCode, Git, and Ubuntu working well together. Using VSCode's terminal for WSL is unreliable due to the delay... something about the way it "communicates" with WSL. It feels like I'm typing in realtime on a connection with a ping over 1000ms sometimes. I played WoW with ping that bad once, and it was an awful experience.
+My current roadblock is based through WSL, windows subsystem for linux and the headaches of getting VSCode, Git, and Ubuntu working well together. Using VSCode's terminal for WSL is unreliable due to the delay... something about the way it "communicates" with WSL. It feels like I'm typing in realtime on a connection with a ping over 1000ms sometimes. I played WoW with ping that bad once and it was an awful experience.
 
+I also currently use two computers, splitting my workload and Zoom functions, which has added the hurdle of accessing websites and copy/paste material posted in Zoom chat. Current work around is through Google Chrome's bookmark sync and document collaboration. Might try one of those programs that allow crosstalk/interaction between multiple computers.
 
+However, working constantly to improve the way I interact with these programs and tools, playing on the strengths and weaknesses of each, should help me overcome their downfalls and keep me productive.
 
-Prompt
-Now that you've learned a bit about what to expect in the course and have seen some of the jobs in the Web Development Industry, where do you see yourself at the end of your 14-week journey?
-
-What about 6 months from now?
-
-or 1 year from now?
-
-Are you excited? Scared? Eager?
-
-What do you hope to accomplish?
-
-Can you foresee potential roadblocks?
-
-What can be done to prevent or circumvent them?
-
-Is there something that I, as your instructor, can do to help you on the road to success?
+I think one thing that would help me be sucessful, given the first two days, is being exact and persistent on the the upcoming lessons and any resources that will give me a heads up. Perhaps it will change over time, as I clearly missed the reading assignment from the day prior. While I have time at night I know I could be getting a leg-up on tomorrow. 
