@@ -1,5 +1,5 @@
 ---
-title:  "Me and Git/GitHub"
+title:  "Me and Python"
 ---
 
 # Hello Once more!
